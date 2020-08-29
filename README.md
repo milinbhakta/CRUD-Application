@@ -1,4 +1,4 @@
-# Express API Starter
+# CRUD API with MongoDb, Express and nodeJS
 
 Includes API Server utilities:
 
